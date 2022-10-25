@@ -1,3 +1,3 @@
 - 👋 Hi, I’m `@one-data-cookie`
-- 👀 I’m interested in anything related to *analytics engineering*, *data analysis*, or *datavis*.
-- 🌱 I’m currently learning about *modern data stack*.
+- 👀 I’m interested in anything related to *analytics engineering*, *modern data stack*, or *datavis*.
+- 🌱 I’m currently building *local data communities*.
